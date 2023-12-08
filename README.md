@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Profession] from [Your Location].
+I'm Ahmad Renaldy Priono, a passionate in Cyber Security and Web Development and iam from Indonesia.
 
-🔭 I'm currently working on [Current Project/Job].
-🌱 I'm currently learning [Technologies/Frameworks].
-👯 I'm looking to collaborate on [Open Source Projects].
+🔭 I'm currently working on Part time Bug Hunter.
+🌱 I'm currently learning New technology AI.
+👯 I'm looking to collaborate on all in my all repository.
 
 ### Languages and Tools:
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -13,15 +13,8 @@ I'm [Your Name], a passionate [Your Profession] from [Your Location].
 <!-- Add more badges for your skills -->
 
 ### 📫 Connect with me:
-[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-username/)
-[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-
-<!-- Animated SVG -->
-![Animation](https://your-image-url.com/animated.svg)
-
-<!-- You can use an animated SVG from a tool like https://loading.io/ -->
-
-
+[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadrenaldypriono/)
+[![](https://img.shields.io/badge/-Medium-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@arenaldyp)
 
 <!---
 ArenaldyP/ArenaldyP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
