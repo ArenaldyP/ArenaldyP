@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ahmad Renaldy Priono, a passionate in Cyber Security and Web Development and iam from Indonesia.
+I'm Ahmad Renaldy Priono, a passionate in Cyber Security and Web Development.
 
 🔭 I'm currently working on Part time Bug Hunter.
 🌱 I'm currently learning New technology AI.
@@ -11,6 +11,9 @@ I'm Ahmad Renaldy Priono, a passionate in Cyber Security and Web Development and
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Burp%20Suite-FF6347?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
+[![](https://img.shields.io/badge/-NMAP-FF6347?style=flat-square&logo=burpsuite&logoColor=green)]
+[![](https://img.shields.io/badge/-Bash-FF6347?style=flat-square&logo=burpsuite&logoColor=yellow)]
 <!-- Add more badges for your skills -->
 
 ### 📫 Connect with me:
