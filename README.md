@@ -12,8 +12,8 @@ I'm Ahmad Renaldy Priono, a passionate in Cyber Security and Web Development.
 [![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Burp%20Suite-FF6347?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![](https://img.shields.io/badge/-NMAP-FF6347?style=flat-square&logo=burpsuite&logoColor=green)]
-[![](https://img.shields.io/badge/-Bash-FF6347?style=flat-square&logo=burpsuite&logoColor=yellow)]
+[![](https://img.shields.io/badge/-Nmap-9BB8CD?style=flat-square&logo=burpsuite&logoColor=green).]
+[![](https://img.shields.io/badge/-Bash-EEC759?style=flat-square&logo=burpsuite&logoColor=yellow).]
 <!-- Add more badges for your skills -->
 
 ### 📫 Connect with me:
