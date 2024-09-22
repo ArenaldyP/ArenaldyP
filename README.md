@@ -1,26 +1,21 @@
-# Hi there! 👋
+# 💫 About Me:
+I'm Ahmad Renaldy Priono, a passionate in Cyber Security and AI<br><br>🔭 I’m currently working on Part time Bug Hunter<br>👯 I'm looking to collaborate on all in my all repository<br>🌱 I’m currently learning New technology AI<br>
 
-I'm Ahmad Renaldy Priono, a passionate in Cyber Security and Web Development.
 
-🔭 I'm currently working on Part time Bug Hunter.
-🌱 I'm currently learning New technology AI.
-👯 I'm looking to collaborate on all in my all repository.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadrenaldypriono) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arenaldyp) 
 
-### Languages and Tools:
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Burp%20Suite-FF6347?style=flat-square&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-[![](https://img.shields.io/badge/-Nmap-9BB8CD?style=flat-square&logo=burpsuite&logoColor=green).]
-[![](https://img.shields.io/badge/-Bash-EEC759?style=flat-square&logo=burpsuite&logoColor=yellow).]
-<!-- Add more badges for your skills -->
+# 💻 Tech Stack:
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ArenaldyP&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArenaldyP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArenaldyP&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 📫 Connect with me:
-[![](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadrenaldypriono/)
-[![](https://img.shields.io/badge/-Medium-1DA1F2?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@arenaldyp)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ArenaldyP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!---
-ArenaldyP/ArenaldyP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+[![](https://visitcount.itsvg.in/api?id=ArenaldyP&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
